@@ -1,4 +1,4 @@
-# EndlessRecorder (in progress)
+# EndlessRecorder
 
 An Android app which allows endless video recording without depleting storage. 
 
